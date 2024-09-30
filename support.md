@@ -1,3 +1,9 @@
+ ---
+layout: page
+title: SimPrayer Support
+permalink: /support/
+   ---
+
 # SimPrayer App Support / SimPrayer 应用支持
 
 Welcome to the support page for SimPrayer! / 欢迎来到 SimPrayer 的支持页面！
